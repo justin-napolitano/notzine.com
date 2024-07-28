@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on notzine.com</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on notzine.com</description>
+    <image>
+      <title>notzine.com</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jul 2024 22:36:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Library of Congress Prod-ifier</title>
+      <link>http://localhost:1313/posts/loc-prodifier/</link>
+      <pubDate>Sat, 20 Jul 2024 22:36:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/loc-prodifier/</guid>
+      <description>Create a modular job to run in parallel to prod-ify a db </description>
+    </item>
+  </channel>
+</rss>
