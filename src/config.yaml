@@ -90,8 +90,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/justin-napolitano/notzine.com/blob/main/src/content"
+    # https://github.com/justin-napolitano/notzine.com/blob/main/src/content/posts/notzine/index.md
+    Text: "View this repo" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
