@@ -4,7 +4,3 @@
 [submodule "src/themes/PaperMod"]
 	path = src/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "src/content/posts/loc-prodifier"]
-	path = src/content/posts/loc-prodifier
-	url = https://github.com/justin-napolitano/loc_prodifier.git
-	branch = post
