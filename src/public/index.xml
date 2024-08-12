@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jul 2024 16:12:27 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 13:06:31 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>itsfucked</title>
+      <link>http://localhost:1313/posts/its-fucked/</link>
+      <pubDate>Sun, 11 Aug 2024 13:06:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/its-fucked/</guid>
+      <description>and there is nothing i can do about it</description>
+    </item>
     <item>
       <title>notzine</title>
       <link>http://localhost:1313/posts/notzine/</link>
