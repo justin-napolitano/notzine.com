@@ -2,37 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/its-fucked/</loc>
-    <lastmod>2024-08-11T13:06:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-11T13:06:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-11T13:06:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bigquery/</loc>
+    <loc>https://notzine.com/tags/bigquery/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://notzine.com/categories/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gcp/</loc>
+    <loc>https://notzine.com/tags/gcp/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/notzine/</loc>
+    <loc>https://notzine.com/posts/notzine/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/programming/</loc>
+    <loc>https://notzine.com/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
+    <loc>https://notzine.com/posts/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://notzine.com/tags/programming/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://notzine.com/categories/projects/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
+  </url><url>
+    <loc>https://notzine.com/tags/python/</loc>
+    <lastmod>2024-07-28T16:12:27-05:00</lastmod>
+  </url><url>
+    <loc>https://notzine.com/tags/</loc>
+    <lastmod>2024-07-28T16:12:27-05:00</lastmod>
+  </url><url>
+    <loc>https://notzine.com/posts/its-fucked/</loc>
   </url>
 </urlset>
