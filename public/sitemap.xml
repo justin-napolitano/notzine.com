@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://notzine.com/posts/its-fucked/</loc>
+    <lastmod>2024-08-12T16:38:25-05:00</lastmod>
+  </url><url>
+    <loc>https://notzine.com/</loc>
+    <lastmod>2024-08-12T16:38:25-05:00</lastmod>
+  </url><url>
+    <loc>https://notzine.com/posts/</loc>
+    <lastmod>2024-08-12T16:38:25-05:00</lastmod>
+  </url><url>
     <loc>https://notzine.com/tags/bigquery/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
@@ -12,12 +21,6 @@
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
     <loc>https://notzine.com/posts/notzine/</loc>
-    <lastmod>2024-07-28T16:12:27-05:00</lastmod>
-  </url><url>
-    <loc>https://notzine.com/</loc>
-    <lastmod>2024-07-28T16:12:27-05:00</lastmod>
-  </url><url>
-    <loc>https://notzine.com/posts/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
   </url><url>
     <loc>https://notzine.com/tags/programming/</loc>
@@ -31,7 +34,5 @@
   </url><url>
     <loc>https://notzine.com/tags/</loc>
     <lastmod>2024-07-28T16:12:27-05:00</lastmod>
-  </url><url>
-    <loc>https://notzine.com/posts/its-fucked/</loc>
   </url>
 </urlset>
