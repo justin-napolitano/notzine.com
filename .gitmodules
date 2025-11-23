@@ -1,6 +1,0 @@
-[submodule "base"]
-	path = docker
-	url = https://github.com/justin-napolitano/hugo-install-script
-[submodule "src/themes/PaperMod"]
-	path = src/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
