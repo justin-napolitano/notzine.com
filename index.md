@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - static site
   - personal website
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes the technical overview and implementation details of a static site built with
+  Hugo and PaperMod, which directly aligns with the 'Static' topic family focusing on static sites
+  and blog projects.
 ---
 
 # notzine.com: Technical Overview and Implementation Notes
@@ -85,4 +91,5 @@ The site is built using Hugo, a popular static site generator written in Go, kno
 ## Summary
 
 notzine.com exemplifies a minimalist, static personal site built with Hugo and PaperMod, focusing on authenticity and performance. Its design and configuration prioritize straightforward content delivery with minimal distractions, suitable for personal publishing without commercial or social media pressures.
+
 
