@@ -1,12 +1,27 @@
 ---
-slug: "github-notzine.com"
-title: "notzine.com"
-repo: "justin-napolitano/notzine.com"
-githubUrl: "https://github.com/justin-napolitano/notzine.com"
-generatedAt: "2025-11-23T09:22:04.622236Z"
-source: "github-auto"
+slug: github-notzine.com
+title: 'notzine.com: Minimalist Personal Site Built with Hugo and PaperMod'
+repo: justin-napolitano/notzine.com
+githubUrl: https://github.com/justin-napolitano/notzine.com
+generatedAt: '2025-11-23T09:22:04.622236Z'
+source: github-auto
+summary: >-
+  Technical overview of notzine.com, a static personal website built with Hugo and PaperMod,
+  emphasizing authenticity and optimized performance.
+tags:
+  - hugo
+  - static-site
+  - papermod
+  - personal-infra
+  - website-configuration
+seoPrimaryKeyword: notzine.com
+seoSecondaryKeywords:
+  - hugo
+  - papermod
+  - static site
+  - personal website
+seoOptimized: true
 ---
-
 
 # notzine.com: Technical Overview and Implementation Notes
 
@@ -70,3 +85,4 @@ The site is built using Hugo, a popular static site generator written in Go, kno
 ## Summary
 
 notzine.com exemplifies a minimalist, static personal site built with Hugo and PaperMod, focusing on authenticity and performance. Its design and configuration prioritize straightforward content delivery with minimal distractions, suitable for personal publishing without commercial or social media pressures.
+
