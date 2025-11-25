@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/notzine.com
 generatedAt: '2025-11-24T21:35:47.881Z'
 source: github-auto
 summary: >-
-  Learn how to create a personal website using Hugo and the PaperMod theme,
-  including setup, features, and project structure.
+  Learn how to create a personal website using Hugo and the PaperMod theme, including setup,
+  features, and project structure.
 tags:
   - hugo
   - papermod
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - build hugo site
   - hugo project structure
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -108,4 +108,5 @@ The generated site will be in the `public` directory.
 ---
 
 This README is based on current repository contents and configuration. Some assumptions were made due to lack of explicit documentation.
+
 
