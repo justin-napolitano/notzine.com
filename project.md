@@ -1,19 +1,26 @@
 ---
 slug: github-notzine-com
 id: github-notzine-com
-title: notzine.com
+title: Building a Personal Website with Hugo and PaperMod Theme
 repo: justin-napolitano/notzine.com
 githubUrl: https://github.com/justin-napolitano/notzine.com
 generatedAt: '2025-11-24T21:35:47.881Z'
 source: github-auto
 summary: >-
-  A personal website built with Hugo using the PaperMod theme. It serves as a
-  platform to share honest, unfiltered content without pretense or narrative
-  constraints.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Learn how to create a personal website using Hugo and the PaperMod theme,
+  including setup, features, and project structure.
+tags:
+  - hugo
+  - papermod
+  - markdown
+seoPrimaryKeyword: hugo personal website
+seoSecondaryKeywords:
+  - static site with hugo
+  - papermod theme setup
+  - local hugo server
+  - build hugo site
+  - hugo project structure
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
